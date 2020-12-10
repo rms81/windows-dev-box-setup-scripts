@@ -43,10 +43,16 @@ choco install -y visualstudio2019enterprise --package-parameters=@"
 "@
 
 choco install -y powershell-core
+choco install cmder
+choco install powertoys
 choco install -y azure-cli
 choco install git-fork
 choco install tailblazer
 choco install linqpad6
+choco install notion
+choco install postman
+choco install rdmfree
+choco install signal
 
 Enable-UAC
 Enable-MicrosoftUpdate

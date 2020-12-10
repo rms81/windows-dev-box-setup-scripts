@@ -53,6 +53,7 @@ choco install notion
 choco install postman
 choco install rdmfree
 choco install signal
+choco install slack
 
 Enable-UAC
 Enable-MicrosoftUpdate
